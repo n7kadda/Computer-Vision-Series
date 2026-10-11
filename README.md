@@ -21,7 +21,7 @@ We'll build that understanding step by step, explaining **why** each technique e
 | Part | Article | Status |
 |---|---|---|
 | 01 | How Does a Computer Actually See an Image? | ✅ Published |
-| 02 | Before AI Can See: How We Manipulate Images | 📝 Drafted |
+| 02 | Before AI Can See: How We Manipulate Images | ✅ Published |
 | 03 | Teaching Machines to See: Neural Networks Behind Computer Vision | ⏳ Upcoming |
 | 04 | How Does a Neural Network Actually Learn From Images? | ⏳ Upcoming |
 
@@ -97,8 +97,8 @@ Explore pixels, resolution, RGB/HSV, image formats, metadata and how image data 
 
 Learn resizing, interpolation, aspect ratio, cropping, flipping, rotation, HSV thresholding, morphological cleanup and contour-based object localisation.
 
-📖 **Medium article:** Link coming after publication  
-💻 **Companion notebook:** Coming soon in this repository
+📖 **Medium article:** [Before AI Can See: How We Manipulate Images](https://medium.com/@techn7k/before-ai-can-see-how-we-manipulate-images-1c331988b07a?sharedUserId=techn7k)  
+💻 **Companion notebook:** [NoteBook](https://github.com/n7kadda/Computer-Vision-Series/blob/6c0920db0c70368d529fc571ccb270072028a46b/Computer_Vision_Part_02_OpenCV_Companion.ipynb)
 
 > Article links and runnable experiments will be added as the series progresses.
 
